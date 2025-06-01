@@ -15,5 +15,6 @@ print(driver.title)
 #print the title of the page
 #print(driver.title)
 
-#Close the browser
+#Closing the browser after 3 seconds
 driver.quit()
+
