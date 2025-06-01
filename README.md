@@ -8,6 +8,7 @@ This Python script launches a Chrome browser, navigates to [Google.com](https://
 2. Create a python project from File --> New Project.
 3. In the project create a file main.py by opening the terminal and put the command --> **touch main.py**.
 4. Python3 install (python 3.x) , Google Chrome (Latest Version).
+5. Making sure that Google Chrome is up to date on our machine we are using.
 
 ### Python Packages Used
 
